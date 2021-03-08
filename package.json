@@ -17,7 +17,8 @@
     "graphql": "^15.5.0",
     "graphql-tag": "^2.11.0",
     "if-env": "^1.0.4",
-    "mongoose": "^5.11.15"
+    "mongoose": "^5.11.15",
+    "stripe": "^8.137.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
